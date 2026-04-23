@@ -8,7 +8,7 @@ Aplikasi **APRO** adalah aplikasi berbasis Flutter yang dikembangkan dari sistem
 
 Silakan download file APK melalui link berikut:
 
-🔗 https://drive.google.com/file/d/1tZ7vcL3D5woPPBPIp6Md5U7IZe0pwtXc/view?usp=sharing
+🔗 https://drive.google.com/file/d/1lhNdq8-1ca5Qho4d0yEln1H2XnZyTyUv/view?usp=sharing
 
 ---
 
