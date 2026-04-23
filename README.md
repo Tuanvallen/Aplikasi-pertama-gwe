@@ -39,4 +39,4 @@ Silakan download file APK melalui link berikut:
 
 ## 👨‍💻 Developer
 
-**Vallen Aji Kurniawan**
+** Tuan Vallen **
